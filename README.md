@@ -43,4 +43,7 @@ pip install -r requirements.txt
 Run Sssnake Jazz, using:
 ```bash
 python sssj.py
+
 ```
+
+After converting image to audio, the result will be stored in the ```output/``` directory.
